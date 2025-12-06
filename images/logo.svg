@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="32"
+   viewBox="0 0 12.7 8.4666667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="12.579048"
+     inkscape:cx="25.478877"
+     inkscape:cy="15.263477"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3"
+       x="-3.4202267e-07"
+       y="-1.0195167e-06"
+       width="1.0000007"
+       height="1.000002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3294167e-06"
+         id="feGaussianBlur3" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.823965;fill:#000000;fill-opacity:1;stroke:none;stroke-width:66.1461;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:2750.01;stroke-opacity:0;filter:url(#filter3)"
+       x="1.6939571"
+       y="5.7484851"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';fill:#000000;fill-opacity:1;stroke-width:66.146"
+         x="1.6939571"
+         y="5.7484851"><tspan
+           style="fill:#91c7e3;fill-opacity:1"
+           id="tspan4">X</tspan><tspan
+           style="fill:#304679;fill-opacity:1"
+           id="tspan5">eon</tspan></tspan></text>
+  </g>
+</svg>
